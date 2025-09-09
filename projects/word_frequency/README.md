@@ -1,4 +1,4 @@
-git config pull.rebase false# Word Frequency Counter
+# Word Frequency Counter
 
 This project is a simple Python script that reads a text file, counts the frequency of each unique word, and outputs a frequency table to a new file.
 
